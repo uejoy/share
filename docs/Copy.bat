@@ -1,0 +1,1 @@
+xcopy _book\*.* docs\ /e /f /y
