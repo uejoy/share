@@ -54,3 +54,15 @@
 
 提取码：ju8o
 
+### C\#高级编程\(第7版\)
+
+链接：https://pan.baidu.com/s/13RWbyWGR6Lb\_FwxmJVzAxw 
+
+提取码：mwlq 
+
+### c\#入门经典\(第6版\) pdf
+
+链接：https://pan.baidu.com/s/1XyyxfjZOB\_V-xXrScfKEBw 
+
+提取码：uip2 
+
